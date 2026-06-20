@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Harmain Shah 👋
 
-<!--
-**HARMAIN-SHAH/HARMAIN-SHAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student | Offensive & Defensive Security
 
-Here are some ideas to get you started:
+I am building practical cybersecurity skills through hands-on labs, CTFs, and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Penetration Testing
+- Vulnerability Assessment
+- Threat Detection
+- SIEM & Security Monitoring
+- Incident Response
+- Purple Teaming
+
+## Tools
+
+- Kali Linux
+- Splunk
+- Nmap
+- Burp Suite
+- Metasploit
+- Wireshark
+
+## Learning Platforms
+
+- TryHackMe
+- Hack The Box
+- Let’s Defend
+
+## Certifications
+
+- SOC Analyst Training
+- Red Team Operations
+- Google Cybersecurity
+- CCNA Training
+
+Always learning and improving in cybersecurity.
