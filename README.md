@@ -1,19 +1,27 @@
-# Hi, I'm Harmain Shah 👋
+# 👋 Hi, I'm Harmain Shah
 
-## Cybersecurity Student | Offensive & Defensive Security
+## 🛡️ Cybersecurity Student | Offensive & Defensive Security
 
-I am building practical cybersecurity skills through hands-on labs, CTFs, and security projects.
+Passionate cybersecurity student building practical skills across **Red Teaming, Blue Team Operations, and Security Analysis**.
 
-## Areas of Interest
+## 🎯 Areas of Interest
 
+🔴 Offensive Security
 - Penetration Testing
 - Vulnerability Assessment
+- Reconnaissance & Enumeration
+- Ethical Hacking
+
+🔵 Defensive Security
 - Threat Detection
 - SIEM & Security Monitoring
 - Incident Response
-- Purple Teaming
+- Security Analysis
 
-## Tools
+🟣 Purple Team Approach
+- Understanding attacker techniques to improve defensive strategies
+
+## 🛠️ Tools & Technologies
 
 - Kali Linux
 - Splunk
@@ -22,17 +30,17 @@ I am building practical cybersecurity skills through hands-on labs, CTFs, and se
 - Metasploit
 - Wireshark
 
-## Learning Platforms
+## 🧪 Hands-on Learning
 
 - TryHackMe
 - Hack The Box
-- Let’s Defend
+- Let's Defend
 
-## Certifications
+## 📜 Certifications & Training
 
 - SOC Analyst Training
 - Red Team Operations
-- Google Cybersecurity
+- Google Cybersecurity Certificate
 - CCNA Training
 
-Always learning and improving in cybersecurity.
+🚀 Continuously learning, practicing, and building in cybersecurity.
