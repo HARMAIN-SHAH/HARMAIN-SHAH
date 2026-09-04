@@ -85,6 +85,7 @@ Real-world SOC operations and monitoring:
 | Google Cybersecurity Certificate | Google · Coursera |
 | CCNA | SimpleLearn |
 | CompTIA SecAI+ | CompTIA |
+| SOC L1 Path | LetsDefend |
 | Splunk Fundamentals: Data Onboarding, Search & Security Monitoring | Splunk |
 | Certified Online Fraud Prevention Specialist (COFPS) | Hack & Fix |
 | CRPO Certified Ransomware Protection Officer | ICTTF - United for Digital Resilience |
@@ -92,8 +93,6 @@ Real-world SOC operations and monitoring:
 | Certified Red Team Operations Management (CRTOM) | Red Team Leaders |
 | Deloitte Australia – Cyber Job Simulation | Deloitte |
 | Intermediate Malware Analysis | Practical Lab |
-| Office Document Analyzer / XLS Detector | Practical Lab |
-
 
 ---
 
