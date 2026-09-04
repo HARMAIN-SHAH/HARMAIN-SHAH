@@ -86,15 +86,14 @@ Real-world SOC operations and monitoring:
 | CCNA | SimpleLearn |
 | CompTIA SecAI+ | CompTIA |
 | Splunk Fundamentals: Data Onboarding, Search & Security Monitoring | Splunk |
+| Certified Online Fraud Prevention Specialist (COFPS) | Hack & Fix |
+| CRPO Certified Ransomware Protection Officer | ICTTF - United for Digital Resilience |
+| Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders |
+| Certified Red Team Operations Management (CRTOM) | Red Team Leaders |
 | Deloitte Australia – Cyber Job Simulation | Deloitte |
 | Intermediate Malware Analysis | Practical Lab |
 | Office Document Analyzer / XLS Detector | Practical Lab |
 
-### In Progress / Target
-| Certification | Issuer | Why It Matters |
-|---|---|---|
-| ISC² Certified in Cybersecurity (CC) | ISC² | Entry-level, free for students — strong industry signal |
-| CompTIA Security+ | CompTIA | Gold standard for SOC and security analyst roles |
 
 ---
 
